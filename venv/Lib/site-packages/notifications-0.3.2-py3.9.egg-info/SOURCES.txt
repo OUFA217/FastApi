@@ -1,0 +1,11 @@
+CHANGELOG.txt
+DOCS.txt
+MANIFEST.in
+README.md
+notifications.py
+setup.cfg
+setup.py
+notifications.egg-info/PKG-INFO
+notifications.egg-info/SOURCES.txt
+notifications.egg-info/dependency_links.txt
+notifications.egg-info/top_level.txt
